@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.xia.tec.console/com.xia.tec.console.iml" filepath="$PROJECT_DIR$/com.xia.tec.console/com.xia.tec.console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xia.tec.mq/com.xia.tec.mq.iml" filepath="$PROJECT_DIR$/com.xia.tec.mq/com.xia.tec.mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xia.tec.root.iml" filepath="$PROJECT_DIR$/com.xia.tec.root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xia.tec.web/com.xia.tec.web.iml" filepath="$PROJECT_DIR$/com.xia.tec.web/com.xia.tec.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.xia.tec.console/console.iml" filepath="$PROJECT_DIR$/com.xia.tec.console/console.iml" />
+    </modules>
+  </component>
+</project>
